@@ -4,6 +4,7 @@ apt install git
 apt install figlet
 apt install ruby
 apt install php
+gem install lolcat
 cd 
 cd White-Virus
 cp -r white-tiger#.apk /sdcard
